@@ -1,0 +1,16 @@
+attrs==23.2.0
+certifi==2023.11.17
+charset-normalizer==3.3.2
+idna==3.6
+iniconfig==2.0.0
+numpy==2.1.2
+packaging==24.0
+pluggy==1.5.0
+py==1.11.0
+pytest==6.2.5
+pytest-timeout==2.2.0
+requests==2.31.0
+# Editable install with no version control (sms_provider_refactor==1.0.0)
+-e /Users/kamsharine/Downloads/devskiller-code-9WX3-YR7U-ATD7-S4F
+toml==0.10.2
+urllib3==2.1.0
