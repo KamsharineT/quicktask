@@ -25,6 +25,15 @@ Designed for simplicity and clean architecture, QuickTask features user authenti
 - Token Authentication
 - Swagger (drf-yasg)
 
+🔧 Tech Stack
+
+Backend: Django + Django REST Framework
+Database: SQLite (for demo), easily switchable to PostgreSQL
+Auth: Token-based (DRF's TokenAuth or JWT)
+Docs: Swagger/OpenAPI (drf-yasg or drf-spectacular)
+Tests: Pytest or Django’s built-in test suite
+Deployment Ready: Docker + GitHub Actions (CI) + Render/Heroku
+
 ---
 
 ## Getting Started

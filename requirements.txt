@@ -14,3 +14,4 @@ requests==2.31.0
 -e /Users/kamsharine/Downloads/devskiller-code-9WX3-YR7U-ATD7-S4F
 toml==0.10.2
 urllib3==2.1.0
+djangorestframework==3.16.0
